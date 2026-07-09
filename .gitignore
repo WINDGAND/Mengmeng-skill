@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.claude/
+.cursor/
+_chat_imgs/
+*.png
+*.jpg
+*.jpeg
+chat-exports/
+萌萌/
