@@ -26,13 +26,13 @@
 丢进 skills 目录就行。Cursor 举例：
 
 ```bash
-git clone https://github.com/WINDGAND/-skill.git .cursor/skills/mengmeng
+git clone https://github.com/WINDGAND/Mengmeng-skill.git .cursor/skills/mengmeng
 ```
 
 或者全局：
 
 ```bash
-git clone https://github.com/WINDGAND/-skill.git ~/.cursor/skills/mengmeng
+git clone https://github.com/WINDGAND/Mengmeng-skill.git ~/.cursor/skills/mengmeng
 ```
 
 ---
